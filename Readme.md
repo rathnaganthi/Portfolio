@@ -26,4 +26,6 @@ I'm open to collaborating with:
 🌐 **Portfolio Website**: [Coming soon]  
 🛠️ **GitHub**: [github.com/rathnaganthi]
 
-Let’s build better systems. Together.
+> Everything here is 100% tested and built by me — from scratch, with no paid tools.
+
+Let's build, learn, and scale — together.
