@@ -1,6 +1,6 @@
 # 🌟 Rathna's FOSS Infrastructure Portfolio
 
-Welcome! I'm Rathna — a self-driven IT Infra Engineer passionate about Free and Open Source Software (FOSS). I specialize in building full-stack IT infrastructure for organizations from scratch — including network, cloud, automation, security, monitoring, licensing, and community management — all without relying on proprietary tools.
+Welcome! I'm Rathna — a self-driven IT Infra Engineer passionate about Free and Open Source Software (FOSS). I specialize in building full-stack IT infrastructure for organizations from scratch — including network, cloud, automation, security, monitoring, licensing, and community management — all tools.
 
 ## 🚀 What I Do
 
@@ -26,7 +26,9 @@ Welcome! I'm Rathna — a self-driven IT Infra Engineer passionate about Free an
 | `project-devops` | GitLab CE on-prem setup with pipelines |
 | `project-lms` | Moodel LMS on-prem setup with pipelines & Assessment Setup |
 | `project-Docker` | Regular deployment and setup of applcaiton to Containzaerion deployment |
-| `project-` | GitLab CE on-prem setup with pipelines |
+
+
+# 📇💉✒️ Work in Progrees... 
 
 ## 🎯 Vision
 
