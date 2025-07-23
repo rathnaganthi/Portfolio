@@ -28,7 +28,7 @@ Welcome! I'm Rathna — a self-driven IT Infra Engineer passionate about Free an
 | `project-Docker` | Regular deployment and setup of applcaiton to Containzaerion deployment |
 
 
-# 📇💉✒️ Work in Progrees... 
+# 📇✒️ Work in Progrees... 
 
 ## 🎯 Vision
 
