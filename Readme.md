@@ -33,7 +33,7 @@ Welcome! I'm Rathna — a self-driven IT Infra Engineer passionate about Free an
 ## 🎯 Vision
 
 I'm building a FOSS-focused community for real-world infra learners who:
-- Want to contribute without coding
+- Want to contribute with coding
 - Believe in sharing infra knowledge
 - Want to build hands-on IT portfolios
 
